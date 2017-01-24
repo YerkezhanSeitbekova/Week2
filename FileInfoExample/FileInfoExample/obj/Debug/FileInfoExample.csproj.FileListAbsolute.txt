@@ -1,0 +1,5 @@
+c:\users\e.seitbekova\documents\visual studio 2013\Projects\FileInfoExample\FileInfoExample\bin\Debug\FileInfoExample.exe.config
+c:\users\e.seitbekova\documents\visual studio 2013\Projects\FileInfoExample\FileInfoExample\bin\Debug\FileInfoExample.exe
+c:\users\e.seitbekova\documents\visual studio 2013\Projects\FileInfoExample\FileInfoExample\bin\Debug\FileInfoExample.pdb
+c:\users\e.seitbekova\documents\visual studio 2013\Projects\FileInfoExample\FileInfoExample\obj\Debug\FileInfoExample.exe
+c:\users\e.seitbekova\documents\visual studio 2013\Projects\FileInfoExample\FileInfoExample\obj\Debug\FileInfoExample.pdb

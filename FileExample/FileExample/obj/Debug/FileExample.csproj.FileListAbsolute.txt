@@ -1,0 +1,5 @@
+c:\users\e.seitbekova\documents\visual studio 2013\Projects\FileExample\FileExample\bin\Debug\FileExample.exe.config
+c:\users\e.seitbekova\documents\visual studio 2013\Projects\FileExample\FileExample\bin\Debug\FileExample.exe
+c:\users\e.seitbekova\documents\visual studio 2013\Projects\FileExample\FileExample\bin\Debug\FileExample.pdb
+c:\users\e.seitbekova\documents\visual studio 2013\Projects\FileExample\FileExample\obj\Debug\FileExample.exe
+c:\users\e.seitbekova\documents\visual studio 2013\Projects\FileExample\FileExample\obj\Debug\FileExample.pdb
